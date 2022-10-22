@@ -15,7 +15,7 @@ namespace auto1
     {
 
         // строка подключения к БД
-        string connStr = "server=10.90.12.110;port=33333;user=test;database=test;password=12345";
+        string connStr = "server=10.90.12.110;port=33333;user=st_4_20_16;database=is_4_20_st16KURS;password=78508887";
         //Переменная соединения
         MySqlConnection conn;
         //Логин и пароль к данной форме Вы сможете посмотреть в БД db_test таблице t_user
